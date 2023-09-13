@@ -1,8 +1,9 @@
 import React from 'react'
+import MainRoutes from './routes/MainRoutes'
 
 function App() {
   return (
-    <div>App</div>
+    <MainRoutes/>
   )
 }
 
